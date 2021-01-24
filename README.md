@@ -7,11 +7,31 @@ It contains the following apps:
 
 ## Requirements:
 ```
-Python==3.5.1
-Django==2.0.10
-djangorestframework==3.7.7
-psycopg2==2.7.3
-PyJWT==1.7.1
+appnope==0.1.2
+asgiref==3.3.1
+backcall==0.2.0
+decorator==4.4.2
+Django==3.1.5
+django-cors-headers==3.6.0
+django-filter==2.4.0
+djangorestframework==3.12.2
+ipdb==0.13.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+jedi==0.18.0
+parso==0.8.1
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit==3.0.14
+psycopg2-binary==2.8.6
+ptyprocess==0.7.0
+Pygments==2.7.4
+PyJWT==2.0.1
+pytz==2020.5
+sqlparse==0.4.1
+traitlets==5.0.5
+wcwidth==0.2.5
+
 ```
 
 ## Project Structure (App Based):
